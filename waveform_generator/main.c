@@ -1,5 +1,5 @@
 // Serial Example
-// Jason Losh
+// Sonali Verma
 
 //-----------------------------------------------------------------------------
 // Hardware Target
